@@ -1,3 +1,4 @@
+citizen ai demo video link https://drive.google.com/drive/folders/1KG4qhYC8nWVGKTqPlWRd0vU3gDWdfOqB
 # -*- coding: utf-8 -*-
 """citizen AI.ipynb
 
